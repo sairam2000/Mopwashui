@@ -1,4 +1,4 @@
-# demoapp
+# Mopwash UI
 
 A new Flutter project.
 
